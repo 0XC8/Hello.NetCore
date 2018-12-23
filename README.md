@@ -11,6 +11,7 @@
 要配合demo实际操作，有个基础的具体印象。但不用点击页面内的其它主题的扩展阅读，避免消耗长时间。
  - [基础概念：关于 .NET Core](https://docs.microsoft.com/zh-cn/dotnet/core/about)
  - [工具入门：常用工具开发 .NET Core 项目](https://docs.microsoft.com/zh-cn/dotnet/core/get-started?tabs=linux)
+ - [VS Code 开发 .Net Core 使用说明](https://www.cnblogs.com/yilezhu/p/9926078.html)
 
 **2）Visual Studio Code 开发 .NET Core**
  - [视频：Windows : Visual Studio Code + .NET Core](https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-using-CSharp-and-NET-Core/)

@@ -33,3 +33,5 @@
 ## ASP.NET Core 入门
 了解该链接的全部主题，官方入门文档：
 https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.2
+- [学习ASP.NET Core模范项目 eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
+- [学习.Net Core综合模范项目（asp.net core, xmarin）](https://github.com/dotnet-architecture/eShopOnContainers)
